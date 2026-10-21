@@ -27,7 +27,7 @@ brew install faucet-hq/faucet-stream/faucet-cli
 
 ### Repositories
 
-| | |
+| Repository | What it is |
 |---|---|
 | [**faucet-stream**](https://github.com/faucet-hq/faucet-stream) | The engine: the `faucet` CLI, the connectors and the embeddable Rust library |
 | [**template-hub**](https://github.com/faucet-hq/template-hub) | Source and sink templates, composed at run time. Publish yours with a PR |
